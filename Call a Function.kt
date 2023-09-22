@@ -1,3 +1,5 @@
+// Define and call a function
+
 fun main() {
     birthdayGreeting()
 }
